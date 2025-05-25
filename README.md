@@ -69,15 +69,6 @@ Boom 💥 You’re using your own standard library like a boss.
 
 ---
 
-### 🔧 Tools & Environment
-
-- Developed on: Linux Ubuntu 22.04 LTS  
-- Compiled with: GCC 11.2  
-- Tested on: Linux & macOS (because we love portability)  
-- Editor: Vim (powered by coffee ☕️ and good vibes)
-
----
-
 ### 📚 Learning Resources
 
 A few gems that saved my sanity:
