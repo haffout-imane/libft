@@ -19,7 +19,7 @@ This project is all about:
 
 <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTM2OWhraW5oN3hmYmoyaHcwa2lscTRnYWtkMmdraHh1ZW1xd2FoMSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/3FvaG9XbBRbLtdaUUP/giphy.gif" width="134" />
 
-### ✍️ What’s inside?
+### 📦 What’s inside?
 
 `libft` is a custom C library filled with reinvented classics — strings, memory, character checks, conversions...  
 Basically, it’s the standard library... but made by *me*. 💅
