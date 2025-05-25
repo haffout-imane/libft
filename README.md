@@ -94,7 +94,3 @@ A few gems that saved my sanity:
 - Always test edge cases like empty strings and NULL pointers. Your code’s survival depends on it.  
 - Use `valgrind` to hunt memory leaks like a pro. Memory bugs are sneaky little devils.  
 - Comment your code like you’re explaining to your future self (because you will thank yourself later).
-
----
-
-
