@@ -74,7 +74,6 @@ Boom 💥 You’re using your own standard library like a boss.
 A few gems that saved my sanity:
 
 - [The C Programming Language by Kernighan & Ritchie](https://en.wikipedia.org/wiki/The_C_Programming_Language) — The Bible of C  
-- [42 Libft Wiki](https://github.com/42School/libft) — Official specs and tips  
 - [Learn C the Hard Way](https://learncodethehardway.org/c/) — For when you want to cry and learn simultaneously 😅
 
 ---
